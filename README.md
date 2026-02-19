@@ -1,128 +1,89 @@
-<h1 align="center">Irene Tayler</h1>
-<p align="center">
-Frontend Engineer · React Specialist
-</p>
+# Irene Tayler
 
-<p align="center">
-Designing scalable interfaces.  
-Building reliable frontend systems.  
-Turning product ideas into real user experiences.
-</p>
+Frontend Engineer | React · TypeScript  
+Building scalable interfaces and reliable frontend systems.
 
 ---
 
-## Profile Snapshot
+## Summary
 
-**Name**: Irene Tayler  
-**Role**: React Frontend Developer  
-**Experience Level**: Mid-level (Frontend Engineering)  
-**Graduation**: B.E. Software Engineering, 2021  
-**Focus**: Scalable architecture · Performance · Maintainability  
+React developer with a Software Engineering background (2021).  
+Focused on building modern web applications with clean architecture, strong performance, and long-term maintainability.
 
-I build modern web applications with an engineering mindset — focusing not only on how things look, but how they scale, perform, and evolve over time.
+I approach frontend development as system design — not just UI, but structure, scalability, and user experience.
 
 ---
 
-## What I Bring
+## Experience Focus
 
-- Production-ready React applications  
-- Clean and scalable component architecture  
-- Strong understanding of state management patterns  
-- REST API integration and data handling  
-- Responsive, accessible UI design  
-- Performance optimization for real-world usage  
-
-I care about writing code that teams can maintain, extend, and trust.
+- Building production-ready React applications  
+- Designing reusable and scalable component systems  
+- Managing complex application state  
+- Integrating REST APIs and handling asynchronous data  
+- Optimizing rendering performance  
+- Creating responsive, cross-browser interfaces  
 
 ---
 
-## Technology Stack
+## Tech Stack
 
-### Frontend Core
+**Core**
 - React
 - TypeScript
 - Next.js
 - JavaScript (ES6+)
 
-### State & Data Layer
+**State Management**
 - Redux
 - Zustand
 - Context API
-- Axios / Fetch
 
-### UI & Styling
+**UI**
 - Tailwind CSS
 - Material UI / Ant Design
-- Responsive & Mobile-first design
+- Responsive Design
 
-### Development Environment
-- Git & GitHub
+**Tools**
+- Git / GitHub
 - Vite
 - Linux
 - Docker (basic)
-- Figma (UI implementation)
+- Figma
 
 ---
 
-## Engineering Approach
+## Selected Projects
 
-I focus on building frontend systems that are:
+**Admin Dashboard**  
+Role-based permissions · analytics · modular layout · API integration  
 
-- **Scalable** — modular structure, reusable components  
-- **Maintainable** — clear separation of concerns  
-- **Performant** — lazy loading, memoization, efficient rendering  
-- **User-focused** — smooth interactions and clean UX  
+**E-commerce Frontend**  
+Product filtering · cart system · checkout flow · global state management  
 
-Frontend is not just UI — it’s system design on the client side.
+**Task Management App**  
+CRUD operations · clean architecture · responsive UI  
 
----
-
-## Selected Work
-
-**Admin Dashboard**
-- Role-based access control  
-- Data visualization and analytics  
-- Modular layout architecture  
-- Integrated with backend APIs  
-
-**E-commerce Frontend**
-- Product search, filtering, and sorting  
-- Cart and checkout workflow  
-- Optimized global state management  
-
-**Task Management System**
-- Full CRUD operations  
-- Clean component structure  
-- Separation of business logic and UI  
-
-More projects are available in pinned repositories.
+More in pinned repositories.
 
 ---
 
-## Career Direction
+## Education
 
-Currently focused on:
-
-- Advanced React architecture  
-- Frontend performance at scale  
-- Application-level state design  
-- Testing (Jest, React Testing Library)  
-- Preparing for large-scale production environments  
-
-I’m interested in building products used by real users, solving real problems.
+Bachelor of Engineering — Software Engineering  
+Guangzhou University · 2021
 
 ---
 
-## Beyond Code
+## Current Direction
 
-- Strong Software Engineering foundation  
-- Comfortable working independently or in remote teams  
-- Continuous learner — keeping up with modern frontend trends  
-- Detail-oriented and quality-driven  
+- Advanced React patterns  
+- Frontend architecture for large applications  
+- Performance optimization  
+- Testing (Jest, React Testing Library)
 
 ---
 
 ## Contact
 
 Email: irene19tayler@outlook.com  
-GitHub: https://github.com/IreneTayler
+GitHub: github.com/IreneTayler
