@@ -1,75 +1,68 @@
-<h1 align="center">Irene Tayler</h1>
+<h1 align="center">Hi, I'm Irene 🌷</h1>
 
 <p align="center">
   Frontend Developer · React · TypeScript
 </p>
 
 <p align="center">
-  Crafting clean interfaces, smooth experiences, and scalable frontend systems.
+  I build clean, modern, and user-friendly web experiences ✨
 </p>
-
-<br/>
-
-## About
-
-I’m a React developer with a background in Software Engineering (2021).
-
-I focus on building modern web applications that are not only visually polished, but also structured, scalable, and easy to maintain.
-
-I enjoy turning complex product ideas into simple and elegant user experiences.
 
 ---
 
-## Tech Stack
+## About Me
+
+I'm a React developer with a Software Engineering background (2021).
+
+I enjoy creating interfaces that feel smooth, intuitive, and pleasant to use.  
+For me, good frontend is not only about how it looks — it's also about structure, performance, and maintainability.
+
+I like turning complex ideas into simple and elegant user experiences.
+
+---
+
+## Tech Stack 💻
 
 **Frontend**  
-React · TypeScript · Next.js · JavaScript (ES6+)
+React · TypeScript · Next.js · JavaScript
 
 **State Management**  
 Redux · Zustand · Context API
 
-**UI & Styling**  
+**Styling**  
 Tailwind CSS · Material UI · Ant Design  
-Responsive · Mobile-first · Cross-browser
+Responsive · Mobile-first
 
 **Tools**  
 Git · Vite · Linux · Docker (basic) · Figma
 
 ---
 
-## Selected Projects
+## Projects 🌼
 
 **Admin Dashboard**  
-Scalable layout · Role-based access · Data visualization · API integration  
+Role-based access · Analytics · API integration  
 
 **E-commerce Frontend**  
-Product search & filtering · Cart · Checkout · Global state management  
+Product filtering · Cart · Checkout flow  
 
-**Task Management App**  
-CRUD operations · Clean architecture · Responsive UI  
+**Task Manager**  
+CRUD features · Clean architecture · Responsive UI  
 
-More projects are available in pinned repositories.
-
----
-
-## Focus
-
-• Scalable component architecture  
-• Reusable UI systems  
-• Performance optimization  
-• Clean and maintainable code  
-• Production-ready frontend development  
+More projects are available in my pinned repositories.
 
 ---
 
-## Education
+## Currently Learning 🌱
 
-Bachelor of Engineering — Software Engineering  
-Guangzhou University · 2021
+- Advanced React patterns  
+- Frontend architecture at scale  
+- Performance optimization  
+- Testing (Jest, React Testing Library)
 
 ---
 
-## Contact
+## Contact 💌
 
 Email: irene19tayler@outlook.com  
 GitHub: github.com/IreneTayler
