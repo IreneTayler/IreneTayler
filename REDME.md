@@ -1,41 +1,81 @@
-<h1 align="center">
-  Irene Tayler
-</h1>
+<h1 align="center">Hi, I'm Irene 👋</h1>
+<h3 align="center">React Frontend Developer</h3>
 
-<h3 align="center">
-  Senior Full-Stack Developer
-</h3>
-
----
-
-A productive full-stack developer specializing in developing modern
-web applications and e-commerce platforms. Experienced in building complete
-full-stack solutions using React, Node.js, and Laravel, from architecture design to
-production deployment. Demonstrated ability to improve
-performance, develop scalable APIs, and deliver
-customized solutions to clients worldwide. Strong problem-solving skills with an emphasis on clean, maintainable, and efficient code.
+<p align="center">
+Building modern, responsive, and scalable web applications with React.
+</p>
 
 ---
 
-## Core Stack
+## 👩‍💻 About Me
 
-### Backend
-Node.js • Express • Laravel • REST APIs • System Design
+- 🎯 React Frontend Developer
+- ⚛️ Focused on React, TypeScript, and modern UI architecture
+- 📐 Strong background in Software Engineering
+- 🚀 Passionate about performance, clean code, and great UX
+- 🌍 Open to remote opportunities
+
+---
+
+## 🛠 Tech Stack
 
 ### Frontend
-React • Next.js • TypeScript • Scalable UI Architecture
+- React
+- TypeScript
+- JavaScript (ES6+)
+- Next.js
+- Vite
 
-### Data
-PostgreSQL • MySQL • MongoDB
+### State Management
+- Redux
+- Zustand
+- Context API
+
+### UI & Styling
+- Tailwind CSS
+- Material UI / Ant Design
+- Responsive Design
+
+### Tools
+- Git & GitHub
+- Docker (basic)
+- Linux
+- Figma
 
 ---
 
-## Engineering Focus
+## 📌 Featured Projects
 
-- Scalable Architecture
-- Performance Optimization
-- API & Backend Reliability
-- Production-Ready Systems
-- Maintainable Codebases
+### Admin Dashboard
+- Role-based access
+- Charts & analytics
+- REST API integration
+- Responsive layout
 
+### E-commerce Frontend
+- Product filtering & search
+- Shopping cart
+- State management with Redux
 
+### Task Management App
+- CRUD operations
+- Clean component architecture
+- API integration
+
+---
+
+## 📚 Education
+
+**Bachelor of Engineering — Software Engineering**  
+Guangzhou University (2022)
+
+---
+
+## 📈 Currently Learning
+
+- Advanced React patterns
+- Performance optimization
+- Testing (Jest, React Testing Library)
+- Scalable frontend architecture
+
+---
