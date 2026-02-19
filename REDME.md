@@ -6,10 +6,6 @@
   Senior Full-Stack Developer
 </h3>
 
-<p align="center">
-  Building scalable, high-performance web systems.
-</p>
-
 ---
 
 A productive full-stack developer specializing in developing modern
@@ -41,4 +37,5 @@ PostgreSQL • MySQL • MongoDB
 - API & Backend Reliability
 - Production-Ready Systems
 - Maintainable Codebases
+
 
