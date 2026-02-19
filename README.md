@@ -1,89 +1,91 @@
-# Irene Tayler
+# Irene.system
 
-Frontend Engineer | React · TypeScript  
-Building scalable interfaces and reliable frontend systems.
-
----
-
-## Summary
-
-React developer with a Software Engineering background (2021).  
-Focused on building modern web applications with clean architecture, strong performance, and long-term maintainability.
-
-I approach frontend development as system design — not just UI, but structure, scalability, and user experience.
+> Frontend Engineer initialized  
+> React environment ready
 
 ---
 
-## Experience Focus
+## user.profile
 
-- Building production-ready React applications  
-- Designing reusable and scalable component systems  
-- Managing complex application state  
-- Integrating REST APIs and handling asynchronous data  
-- Optimizing rendering performance  
-- Creating responsive, cross-browser interfaces  
+name: Irene Tayler  
+role: Frontend Developer  
+specialization: React / TypeScript  
+education: B.E. Software Engineering, 2021  
+status: actively building & learning  
 
 ---
 
-## Tech Stack
+## system.capabilities
 
-**Core**
+frontend:
 - React
-- TypeScript
 - Next.js
+- TypeScript
 - JavaScript (ES6+)
 
-**State Management**
+state_management:
 - Redux
 - Zustand
 - Context API
 
-**UI**
+ui_layer:
 - Tailwind CSS
 - Material UI / Ant Design
 - Responsive Design
 
-**Tools**
-- Git / GitHub
+tools:
+- Git
 - Vite
 - Linux
 - Docker (basic)
-- Figma
 
 ---
 
-## Selected Projects
+## active.modules
 
-**Admin Dashboard**  
-Role-based permissions · analytics · modular layout · API integration  
+[admin-dashboard]
+role-based access  
+analytics integration  
+modular layout  
 
-**E-commerce Frontend**  
-Product filtering · cart system · checkout flow · global state management  
+[ecommerce-frontend]
+product filtering  
+cart & checkout  
+global state management  
 
-**Task Management App**  
-CRUD operations · clean architecture · responsive UI  
+[task-manager]
+CRUD operations  
+clean architecture  
 
-More in pinned repositories.
-
----
-
-## Education
-
-Bachelor of Engineering — Software Engineering  
-Guangzhou University · 2021
+More modules available in pinned repositories.
 
 ---
 
-## Current Direction
+## system.philosophy
 
-- Advanced React patterns  
-- Frontend architecture for large applications  
-- Performance optimization  
-- Testing (Jest, React Testing Library)
+- build scalable interfaces  
+- keep components reusable  
+- optimize performance early  
+- write code for long-term maintainability  
+- focus on real user experience  
 
 ---
 
-## Contact
+## current.upgrade
 
-Email: irene19tayler@outlook.com  
-GitHub: github.com/IreneTayler
+learning:
+- advanced React patterns
+- large-scale frontend architecture
+- performance optimization
+- testing (Jest / React Testing Library)
+
+---
+
+## contact.endpoint
+
+email: irene19tayler@outlook.com  
+github: IreneTayler
+
+---
+
+> system.ready_for_opportunities = true
