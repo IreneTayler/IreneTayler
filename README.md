@@ -1,84 +1,82 @@
-# Irene Tayler
+<h1 align="center">Irene Tayler</h1>
+<p align="center">
+Frontend Developer · React · TypeScript
+</p>
 
-### React Developer · Frontend Engineer
-
----
-
-## Overview
-
-Irene is a frontend developer designed to build modern, scalable, and user-focused web applications.
-
-### Key Capabilities
-
-- React + TypeScript development
-- Scalable component architecture
-- REST API integration
-- Responsive and cross-browser UI
-- Performance optimization
+<p align="center">
+Building clean, modern, and scalable web applications.
+</p>
 
 ---
 
-## Core Technologies
+## About Me
 
-Frontend Engine:
+I’m a React developer with a background in Software Engineering.  
+I focus on creating intuitive user interfaces, writing maintainable code, and building frontend systems that scale.
+
+I enjoy turning complex requirements into simple and elegant user experiences.
+
+---
+
+## Tech Stack
+
+**Frontend**
 - React
-- Next.js
 - TypeScript
+- Next.js
 - JavaScript (ES6+)
 
-State Layer:
+**State Management**
 - Redux
 - Zustand
 - Context API
 
-UI System:
-- Tailwind CSS
-- Material UI / Ant Design
+**UI & Styling**
+- Tailwind CSS  
+- Material UI / Ant Design  
+- Responsive & Mobile-first design  
 
-Environment:
-- Git
-- Vite
-- Linux
-- Docker (basic)
-
----
-
-## Featured Modules
-
-**Admin Dashboard**
-- Role-based access
-- Analytics and charts
-- Modular layout system
-
-**E-commerce Interface**
-- Product search and filtering
-- Cart and checkout flow
-- Optimized state management
-
-**Task Manager**
-- CRUD operations
-- Clean separation of UI and logic
+**Tools**
+- Git & GitHub  
+- Vite  
+- Docker (basic)  
+- Linux  
 
 ---
 
-## Background
+## What I Focus On
 
-B.E. Software Engineering  
+- Clean component architecture  
+- Reusable UI systems  
+- Performance optimization  
+- Maintainable project structure  
+- Production-ready frontend development  
+
+---
+
+## Projects
+
+**Admin Dashboard**  
+Role-based access, analytics, and REST API integration  
+
+**E-commerce Frontend**  
+Product filtering, cart, and checkout experience  
+
+**Task Management App**  
+CRUD features with clean architecture and responsive UI  
+
+More projects are available in my pinned repositories.
+
+---
+
+## Education
+
+Bachelor of Engineering — Software Engineering  
 Guangzhou University · 2022
-
----
-
-## Status
-
-Currently focused on:
-- Advanced React architecture  
-- Frontend performance  
-- Testing (Jest, React Testing Library)  
-
-Available for frontend opportunities.
 
 ---
 
 ## Contact
 
-irene19tayler@outlook.com
+Email: irene19tayler@outlook.com  
+GitHub: https://github.com/IreneTayler
