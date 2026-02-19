@@ -1,50 +1,44 @@
-# Irene Tayler
-React Developer
+# Hi, I'm Irene 👋
 
-Frontend engineer focused on building scalable, maintainable web applications using React and TypeScript.
+I'm a React developer who enjoys turning ideas into fast, clean, and user-friendly web applications.
 
-## Skills
+I like building interfaces that are not only beautiful, but also scalable and easy to maintain.
 
-**Frontend**
-- React
-- TypeScript
-- Next.js
-- JavaScript (ES6+)
+---
 
-**State Management**
-- Redux
-- Zustand
-- Context API
+## What I Work With
 
-**Styling**
-- Tailwind CSS
-- Material UI / Ant Design
-- Responsive Design
+React · TypeScript · Next.js · JavaScript  
+Redux · Zustand · REST APIs  
+Tailwind · Material UI · Responsive Design
 
-**Tools**
-- Git
-- Vite
-- Docker (basic)
-- Linux
+---
 
-## Focus
+## What I’m Building
 
-- Scalable component architecture  
-- Clean and maintainable code  
-- Performance optimization  
-- Production-ready frontend systems  
+**Admin Dashboard**  
+A scalable dashboard with role-based access and data visualization.
 
-## Projects
+**E-commerce Frontend**  
+Modern shopping experience with filtering, cart, and checkout.
 
-- Admin Dashboard — role-based access, analytics, API integration  
-- E-commerce Frontend — product filtering, cart, checkout  
-- Task Manager — CRUD app with clean architecture  
+**Task Management App**  
+Simple, clean productivity tool with full CRUD functionality.
 
-## Education
+More projects are available in my pinned repositories.
 
-B.E. Software Engineering  
-Guangzhou University (2022)
+---
+
+## About Me
+
+- Background in Software Engineering  
+- Focused on frontend architecture and performance  
+- Currently improving advanced React patterns and testing  
+- Open to remote opportunities
+
+---
 
 ## Contact
 
-irene19tayler@outlook.com
+Email: irene19tayler@outlook.com  
+GitHub: IreneTayler
