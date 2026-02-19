@@ -1,9 +1,9 @@
 <h1 align="center">
-  ☺️ Joana Kelly ☺️
+  Irene Tayler
 </h1>
 
 <h3 align="center">
-  Senior Full-Stack Engineer
+  Senior Full-Stack Developer
 </h3>
 
 <p align="center">
@@ -12,16 +12,12 @@
 
 ---
 
-I am a Senior Full-Stack Engineer with 5+ years of experience delivering production-grade applications in fintech and public sector environments.
-
-I specialize in architecting scalable systems, improving performance, and shipping reliable products used by real users.
-
-My work has contributed to:
-- 40% revenue growth
-- 33% increase in user acquisition
-- Improved system performance across multiple production applications
-
-I focus on clean architecture, long-term maintainability, and business impact — not just shipping features.
+A productive full-stack developer specializing in developing modern
+web applications and e-commerce platforms. Experienced in building complete
+full-stack solutions using React, Node.js, and Laravel, from architecture design to
+production deployment. Demonstrated ability to improve
+performance, develop scalable APIs, and deliver
+customized solutions to clients worldwide. Strong problem-solving skills with an emphasis on clean, maintainable, and efficient code.
 
 ---
 
@@ -45,3 +41,4 @@ PostgreSQL • MySQL • MongoDB
 - API & Backend Reliability
 - Production-Ready Systems
 - Maintainable Codebases
+
