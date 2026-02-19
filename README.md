@@ -1,91 +1,75 @@
-# Irene.system
+<h1 align="center">Irene Tayler</h1>
 
-> Frontend Engineer initialized  
-> React environment ready
+<p align="center">
+  Frontend Developer · React · TypeScript
+</p>
 
----
+<p align="center">
+  Crafting clean interfaces, smooth experiences, and scalable frontend systems.
+</p>
 
-## user.profile
+<br/>
 
-name: Irene Tayler  
-role: Frontend Developer  
-specialization: React / TypeScript  
-education: B.E. Software Engineering, 2021  
-status: actively building & learning  
+## About
 
----
+I’m a React developer with a background in Software Engineering (2021).
 
-## system.capabilities
+I focus on building modern web applications that are not only visually polished, but also structured, scalable, and easy to maintain.
 
-frontend:
-- React
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-
-state_management:
-- Redux
-- Zustand
-- Context API
-
-ui_layer:
-- Tailwind CSS
-- Material UI / Ant Design
-- Responsive Design
-
-tools:
-- Git
-- Vite
-- Linux
-- Docker (basic)
+I enjoy turning complex product ideas into simple and elegant user experiences.
 
 ---
 
-## active.modules
+## Tech Stack
 
-[admin-dashboard]
-role-based access  
-analytics integration  
-modular layout  
+**Frontend**  
+React · TypeScript · Next.js · JavaScript (ES6+)
 
-[ecommerce-frontend]
-product filtering  
-cart & checkout  
-global state management  
+**State Management**  
+Redux · Zustand · Context API
 
-[task-manager]
-CRUD operations  
-clean architecture  
+**UI & Styling**  
+Tailwind CSS · Material UI · Ant Design  
+Responsive · Mobile-first · Cross-browser
 
-More modules available in pinned repositories.
+**Tools**  
+Git · Vite · Linux · Docker (basic) · Figma
 
 ---
 
-## system.philosophy
+## Selected Projects
 
-- build scalable interfaces  
-- keep components reusable  
-- optimize performance early  
-- write code for long-term maintainability  
-- focus on real user experience  
+**Admin Dashboard**  
+Scalable layout · Role-based access · Data visualization · API integration  
 
----
+**E-commerce Frontend**  
+Product search & filtering · Cart · Checkout · Global state management  
 
-## current.upgrade
+**Task Management App**  
+CRUD operations · Clean architecture · Responsive UI  
 
-learning:
-- advanced React patterns
-- large-scale frontend architecture
-- performance optimization
-- testing (Jest / React Testing Library)
+More projects are available in pinned repositories.
 
 ---
 
-## contact.endpoint
+## Focus
 
-email: irene19tayler@outlook.com  
-github: IreneTayler
+• Scalable component architecture  
+• Reusable UI systems  
+• Performance optimization  
+• Clean and maintainable code  
+• Production-ready frontend development  
 
 ---
 
-> system.ready_for_opportunities = true
+## Education
+
+Bachelor of Engineering — Software Engineering  
+Guangzhou University · 2021
+
+---
+
+## Contact
+
+Email: irene19tayler@outlook.com  
+GitHub: github.com/IreneTayler
