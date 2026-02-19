@@ -1,34 +1,15 @@
-<h1 align="center">Hi, I'm Irene 👋</h1>
-<h3 align="center">React Developer | Frontend Engineer</h3>
+# Irene Tayler
+React Developer
 
-<p align="center">
-I build modern, responsive, and scalable web applications using React and TypeScript.
-</p>
+Frontend engineer focused on building scalable, maintainable web applications using React and TypeScript.
 
----
-
-## 🚀 About Me
-  A productive full-stack developer specializing in developing modern
-web applications and e-commerce platforms. Experienced in building complete
-full-stack solutions using React, Node.js, and Laravel, from architecture design to
-production deployment. Demonstrated ability to improve
-performance, develop scalable APIs, and deliver
-customized solutions to clients worldwide. Strong problem-solving skills with an emphasis on clean, maintainable, and efficient code.
-- 💻 React Frontend Developer
-- ⚛️ Specialized in React, TypeScript, and modern UI architecture
-- 🎯 Focused on clean code and scalable applications
-- 🌍 Open to remote opportunities
-
----
-
-## 🛠 Tech Stack
+## Skills
 
 **Frontend**
 - React
 - TypeScript
-- JavaScript (ES6+)
 - Next.js
-- Vite
+- JavaScript (ES6+)
 
 **State Management**
 - Redux
@@ -37,15 +18,33 @@ customized solutions to clients worldwide. Strong problem-solving skills with an
 
 **Styling**
 - Tailwind CSS
-- Material UI
+- Material UI / Ant Design
 - Responsive Design
 
----
+**Tools**
+- Git
+- Vite
+- Docker (basic)
+- Linux
 
-## 📊 GitHub Stats
+## Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IreneTayler&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreneTayler&layout=compact" />
-</p>
+- Scalable component architecture  
+- Clean and maintainable code  
+- Performance optimization  
+- Production-ready frontend systems  
 
+## Projects
+
+- Admin Dashboard — role-based access, analytics, API integration  
+- E-commerce Frontend — product filtering, cart, checkout  
+- Task Manager — CRUD app with clean architecture  
+
+## Education
+
+B.E. Software Engineering  
+Guangzhou University (2022)
+
+## Contact
+
+irene19tayler@outlook.com
