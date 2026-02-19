@@ -72,7 +72,7 @@ More projects are available in my pinned repositories.
 ## Education
 
 Bachelor of Engineering — Software Engineering  
-Guangzhou University · 2022
+Guangzhou University · 2021
 
 ---
 
@@ -80,3 +80,4 @@ Guangzhou University · 2022
 
 Email: irene19tayler@outlook.com  
 GitHub: https://github.com/IreneTayler
+
