@@ -1,44 +1,84 @@
-# Hi, I'm Irene 👋
+# Irene Tayler
 
-I'm a React developer who enjoys turning ideas into fast, clean, and user-friendly web applications.
-
-I like building interfaces that are not only beautiful, but also scalable and easy to maintain.
+### React Developer · Frontend Engineer
 
 ---
 
-## What I Work With
+## Overview
 
-React · TypeScript · Next.js · JavaScript  
-Redux · Zustand · REST APIs  
-Tailwind · Material UI · Responsive Design
+Irene is a frontend developer designed to build modern, scalable, and user-focused web applications.
 
----
+### Key Capabilities
 
-## What I’m Building
-
-**Admin Dashboard**  
-A scalable dashboard with role-based access and data visualization.
-
-**E-commerce Frontend**  
-Modern shopping experience with filtering, cart, and checkout.
-
-**Task Management App**  
-Simple, clean productivity tool with full CRUD functionality.
-
-More projects are available in my pinned repositories.
+- React + TypeScript development
+- Scalable component architecture
+- REST API integration
+- Responsive and cross-browser UI
+- Performance optimization
 
 ---
 
-## About Me
+## Core Technologies
 
-- Background in Software Engineering  
-- Focused on frontend architecture and performance  
-- Currently improving advanced React patterns and testing  
-- Open to remote opportunities
+Frontend Engine:
+- React
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+
+State Layer:
+- Redux
+- Zustand
+- Context API
+
+UI System:
+- Tailwind CSS
+- Material UI / Ant Design
+
+Environment:
+- Git
+- Vite
+- Linux
+- Docker (basic)
+
+---
+
+## Featured Modules
+
+**Admin Dashboard**
+- Role-based access
+- Analytics and charts
+- Modular layout system
+
+**E-commerce Interface**
+- Product search and filtering
+- Cart and checkout flow
+- Optimized state management
+
+**Task Manager**
+- CRUD operations
+- Clean separation of UI and logic
+
+---
+
+## Background
+
+B.E. Software Engineering  
+Guangzhou University · 2022
+
+---
+
+## Status
+
+Currently focused on:
+- Advanced React architecture  
+- Frontend performance  
+- Testing (Jest, React Testing Library)  
+
+Available for frontend opportunities.
 
 ---
 
 ## Contact
 
-Email: irene19tayler@outlook.com  
-GitHub: IreneTayler
+irene19tayler@outlook.com
