@@ -38,31 +38,8 @@ Git · Vite · Linux · Docker (basic) · Figma
 
 ---
 
-## Projects 🌼
-
-**Admin Dashboard**  
-Role-based access · Analytics · API integration  
-
-**E-commerce Frontend**  
-Product filtering · Cart · Checkout flow  
-
-**Task Manager**  
-CRUD features · Clean architecture · Responsive UI  
-
-More projects are available in my pinned repositories.
-
----
-
-## Currently Learning 🌱
-
-- Advanced React patterns  
-- Frontend architecture at scale  
-- Performance optimization  
-- Testing (Jest, React Testing Library)
-
----
-
 ## Contact 💌
 
 Email: irene19tayler@outlook.com  
 GitHub: github.com/IreneTayler
+
