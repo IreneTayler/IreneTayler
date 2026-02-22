@@ -47,7 +47,7 @@ Full-stack task management application with authentication and CRUD functionalit
 Tech: React, Node.js, Express, MongoDB  
 
 Live Demo: https://your-task-demo-link  
-GitHub: https://github.com/IreneTayler/your-task-repo
+GitHub: https://github.com/IreneTayler/ecommerce
 
 ---
 
@@ -80,4 +80,5 @@ Portfolio: https://my-portfolio-theta-sandy-37.vercel.app
 ---
 
 ⭐ Currently looking for a **Junior / Middle Full-Stack Developer** remote position.
+
 
