@@ -74,9 +74,10 @@ GitHub: https://github.com/IreneTayler/your-api-repo
 ---
 
 ## 📫 Contact
-Email: your-email@example.com  
+Email: Irene19tayler@outlook.com  
 Portfolio: https://my-portfolio-theta-sandy-37.vercel.app
 
 ---
 
 ⭐ Currently looking for a **Junior / Middle Full-Stack Developer** remote position.
+
