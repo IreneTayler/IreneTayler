@@ -11,9 +11,6 @@ Focused on real-world projects, performance, and production-ready deployment.
 
 ## 🌐 Portfolio
 
-Live Demo:  
-https://my-portfolio-theta-sandy-37.vercel.app
-
 ---
 
 ## 🛠 Tech Stack
@@ -44,19 +41,6 @@ https://my-portfolio-theta-sandy-37.vercel.app
 
 ---
 
-## 📂 Main Projects
-
-### Web Applications
-- Portfolio Website  
-  Live: https://my-portfolio-theta-sandy-37.vercel.app  
-  GitHub: https://github.com/IreneTayler
-
-- Ecommerce Platform  
-  GitHub: https://github.com/IreneTayler/ecommerce
-
-- Full-Stack Applications  
-  GitHub: https://github.com/IreneTayler
-
 ---
 
 ## 📈 GitHub Highlights
@@ -70,8 +54,7 @@ https://my-portfolio-theta-sandy-37.vercel.app
 ## 📫 Contact
 
 Email: Irene19tayler@outlook.com  
-Portfolio: https://my-portfolio-theta-sandy-37.vercel.app  
-
 ---
 
 ⭐ Currently looking for a **Junior / Middle Full-Stack Developer** remote position.
+
