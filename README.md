@@ -1,45 +1,82 @@
-<h1 align="center">Hi, I'm Irene 🌷</h1>
+# Hi, I'm Irene Tayler 👋
 
-<p align="center">
-  Frontend Developer · React · TypeScript
-</p>
-
-<p align="center">
-  I build clean, modern, and user-friendly web experiences ✨
-</p>
+💻 Full-Stack Developer  
+🌍 Open to Remote Opportunities (Worldwide / Russia)  
+📍 Available for international remote work  
 
 ---
 
-## About Me
-
-I'm a React developer with a Software Engineering background (2021).
-
-I enjoy creating interfaces that feel smooth, intuitive, and pleasant to use.  
-For me, good frontend is not only about how it looks — it's also about structure, performance, and maintainability.
-
-I like turning complex ideas into simple and elegant user experiences.
+## 🚀 Portfolio
+🌐 Live Portfolio:  
+https://my-portfolio-theta-sandy-37.vercel.app
 
 ---
 
-## Tech Stack 💻
+## 🛠 Tech Stack
 
-**Frontend**  
-React · TypeScript · Next.js · JavaScript
+**Frontend**
+- React
+- TypeScript
+- JavaScript
+- HTML / CSS
+- Tailwind / Bootstrap
 
-**State Management**  
-Redux · Zustand · Context API
+**Backend**
+- Node.js
+- Express
+- REST API
+- Authentication (JWT)
 
-**Styling**  
-Tailwind CSS · Material UI · Ant Design  
-Responsive · Mobile-first
+**Database**
+- MongoDB
+- PostgreSQL
+- MySQL
 
-**Tools**  
-Git · Vite · Linux · Docker (basic) · Figma
+**Tools**
+- Git & GitHub
+- Docker (basic)
+- Render
+- Vercel
 
 ---
 
-## Contact 💌
+## 📂 Featured Projects
 
-Email: irene19tayler@outlook.com  
-GitHub: github.com/IreneTayler
+### Task Manager (Full-Stack)
+Full-stack task management application with authentication and CRUD functionality.  
+Tech: React, Node.js, Express, MongoDB  
 
+Live Demo: https://your-task-demo-link  
+GitHub: https://github.com/IreneTayler/your-task-repo
+
+---
+
+### Ecommerce Platform
+Online store with product management and shopping cart.  
+Tech: React, Express, PostgreSQL  
+
+Live Demo: https://your-ecommerce-demo-link  
+GitHub: https://github.com/IreneTayler/your-ecommerce-repo
+
+---
+
+### REST API
+Authentication and CRUD API with validation and error handling.  
+Tech: Node.js, Express  
+
+GitHub: https://github.com/IreneTayler/your-api-repo
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneTayler&show_icons=true&theme=default)
+
+---
+
+## 📫 Contact
+Email: your-email@example.com  
+Portfolio: https://my-portfolio-theta-sandy-37.vercel.app
+
+---
+
+⭐ Currently looking for a **Junior / Middle Full-Stack Developer** remote position.
