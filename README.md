@@ -9,10 +9,6 @@ Focused on real-world projects, performance, and production-ready deployment.
 
 ---
 
-## 🌐 Portfolio
-
----
-
 ## 🛠 Tech Stack
 
 **Frontend**
@@ -57,4 +53,5 @@ Email: Irene19tayler@outlook.com
 ---
 
 ⭐ Currently looking for a **Junior / Middle Full-Stack Developer** remote position.
+
 
