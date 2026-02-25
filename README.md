@@ -25,6 +25,7 @@ Focused on real-world projects, performance, and production-ready deployment.
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff)
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=swagger&logoColor=ffffff)
 ![JWT Authentication](https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=json-web-tokens&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=ffffff)
 
 ---
 
@@ -62,6 +63,7 @@ Email: Irene19tayler@outlook.com
 ---
 
 ⭐ Currently looking for a **Junior / Middle Full-Stack Developer** remote position.
+
 
 
 
