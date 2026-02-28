@@ -64,10 +64,14 @@ Focused on real-world projects, performance, and production-ready deployment.
 ## 📫 Contact
 
 Email: Irene19tayler@outlook.com 
+
+---
+
 Telegram: @Irene923
 ---
 
 ⭐ Currently looking for a **Junior / Middle Full-Stack Developer** remote position.
+
 
 
 
