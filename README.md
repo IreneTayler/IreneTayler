@@ -53,6 +53,13 @@ Focused on real-world projects, performance, and production-ready deployment.
 
 ---
 
+## 🌍 Portfolio
+
+🔗 Live site:  
+https://my-portfolio-yr8f.vercel.app/
+
+---
+
 ## 📈 GitHub Highlights
 
 - Active development and regular commits
@@ -71,6 +78,7 @@ Telegram: @Irene923
 ---
 
 ⭐ Currently looking for a **Junior / Middle Full-Stack Developer** remote position.
+
 
 
 
