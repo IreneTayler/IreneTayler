@@ -47,6 +47,10 @@ Focused on real-world projects, performance, and production-ready deployment.
 
 ---
 
+![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🖋 Frontend Libraries & Frameworks
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
@@ -86,6 +90,7 @@ Telegram: @irene_dev
 ---
 
 ⭐ Currently looking for a **Junior / Middle Full-Stack Developer** remote position.
+
 
 
 
