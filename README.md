@@ -74,10 +74,11 @@ Email: Irene19tayler@outlook.com
 
 ---
 
-Telegram: @Irene923
+Telegram: @irene_dev
 ---
 
 ⭐ Currently looking for a **Junior / Middle Full-Stack Developer** remote position.
+
 
 
 
