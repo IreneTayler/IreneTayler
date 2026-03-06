@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Irene Tayler</h1>
-<h3 align="center">Full-Stack Developer | React · Angular · Node.js · FastAPI</h3>
+<h1 align="center">Hi 👋 I'm Irene Tayler</h1>
+<h3 align="center">Full-Stack Developer | React · Angular · TypeScript · Node.js · Python</h3>
 
 <p align="center">
 Remote Developer • Open to Work
@@ -9,13 +9,13 @@ Remote Developer • Open to Work
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer building modern web applications  
-- ⚡ Experience with React, Angular, TypeScript, Node.js, Express  
-- 🐍 Backend development with Python and FastAPI  
-- 📱 Skilled in Responsive Web Design (mobile-first)  
-- 🗄 Working with PostgreSQL, MongoDB, MySQL  
-- 🐳 Using Docker and CI/CD  
-- 🌍 Open to remote developer opportunities
+• Full-stack developer building modern web applications  
+• Experience with React, Angular, TypeScript, Node.js, Express  
+• Backend development with Python and FastAPI  
+• Skilled in Responsive Web Design (mobile-first)  
+• Working with PostgreSQL, MongoDB, MySQL  
+• Using Docker and CI/CD  
+• Open to remote developer opportunities  
 
 ---
 
@@ -33,7 +33,7 @@ Remote Developer • Open to Work
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal)
 ![Laravel](https://img.shields.io/badge/Laravel-red)
 
-### Programming Languages
+### Programming
 ![Python](https://img.shields.io/badge/Python-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
@@ -55,26 +55,22 @@ Remote Developer • Open to Work
 
 ## 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=IreneTayler&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IreneTayler&show_icons=true&theme=tokyonight" />
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreneTayler&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IreneTayler&layout=compact&theme=tokyonight" />
 
 ---
 
-## 🔥 Featured Projects
+## ⭐ Featured Projects
 
-### Real-Time Chat Platform
+### Real-Time Chat Application
 Tech: React · Node.js · WebSocket · PostgreSQL  
 
 Features:
-- real-time messaging
-- authentication
-- message history
-- responsive UI
+• real-time messaging  
+• authentication  
+• responsive UI  
+• REST API backend  
 
 ---
 
@@ -82,19 +78,19 @@ Features:
 Tech: React · TypeScript · REST API  
 
 Features:
-- interactive charts
-- API integration
-- responsive dashboard UI
+• interactive charts  
+• responsive layout  
+• API data integration  
 
 ---
 
 ### REST API Service
-Tech: FastAPI · PostgreSQL · Docker  
+Tech: Python · FastAPI · PostgreSQL · Docker  
 
 Features:
-- authentication
-- REST API
-- scalable backend architecture
+• secure authentication  
+• scalable backend architecture  
+• API documentation  
 
 ---
 
@@ -102,10 +98,3 @@ Features:
 
 📧 Email: irene19tayler@outlook.com  
 💼 Open to remote full-stack developer roles
-
-
-
-
-
-
-
