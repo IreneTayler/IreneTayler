@@ -24,7 +24,6 @@ Remote Developer • Open to Work
 ![Angular](https://img.shields.io/badge/Angular-red)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Responsive Design](https://img.shields.io/badge/Responsive Design-ffffff)
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-green)
@@ -39,6 +38,10 @@ Remote Developer • Open to Work
 ### DevOps
 ![Docker](https://img.shields.io/badge/Docker-blue)
 ![CI/CD](https://img.shields.io/badge/CI/CD-grey)
+
+### UI / UX
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-green)
+![Mobile First](https://img.shields.io/badge/Mobile-First-blue)
 
 ---
 
@@ -91,6 +94,7 @@ Features:
 
 📧 Email: irene19tayler@outlook.com  
 💼 Open to remote full-stack developer roles
+
 
 
 
