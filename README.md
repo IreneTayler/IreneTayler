@@ -10,10 +10,11 @@ Remote Developer • Open to Work
 ## 🚀 About Me
 
 - 💻 Full-stack developer building modern web applications  
-- ⚡ Experience with **React, Angular, TypeScript, Node.js, Express**  
-- 📱 Skilled in **Responsive Web Design (mobile-first)**  
-- 🗄 Working with **PostgreSQL, MongoDB, MySQL**  
-- 🐳 Using **Docker and CI/CD**  
+- ⚡ Experience with React, Angular, TypeScript, Node.js, Express  
+- 🐍 Backend development with Python and FastAPI  
+- 📱 Skilled in Responsive Web Design (mobile-first)  
+- 🗄 Working with PostgreSQL, MongoDB, MySQL  
+- 🐳 Using Docker and CI/CD  
 - 🌍 Open to remote developer opportunities
 
 ---
@@ -101,6 +102,7 @@ Features:
 
 📧 Email: irene19tayler@outlook.com  
 💼 Open to remote full-stack developer roles
+
 
 
 
