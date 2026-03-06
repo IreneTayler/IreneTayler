@@ -43,9 +43,13 @@ Remote Developer • Open to Work
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IreneTayler&show_icons=true&theme=tokyonight)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=IreneTayler&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IreneTayler&layout=compact&theme=tokyonight)
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreneTayler&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -86,3 +90,4 @@ Features:
 
 📧 Email: irene19tayler@outlook.com  
 💼 Open to remote full-stack developer roles
+
