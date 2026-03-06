@@ -24,6 +24,7 @@ Remote Developer • Open to Work
 ![Angular](https://img.shields.io/badge/Angular-red)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4CAF50?style=for-the-badge&logo=html5&logoColor=ffffff)
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-green)
@@ -90,4 +91,5 @@ Features:
 
 📧 Email: irene19tayler@outlook.com  
 💼 Open to remote full-stack developer roles
+
 
