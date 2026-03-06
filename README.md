@@ -57,11 +57,12 @@ Focused on real-world projects, performance, and production-ready deployment.
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneTayler&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IreneTayler)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
 
 ---
 
@@ -90,6 +91,7 @@ Telegram: @irene_dev
 ---
 
 ⭐ Currently looking for a **Junior / Middle Full-Stack Developer** remote position.
+
 
 
 
