@@ -32,6 +32,11 @@ Remote Developer • Open to Work
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal)
 ![Laravel](https://img.shields.io/badge/Laravel-red)
 
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
@@ -41,8 +46,8 @@ Remote Developer • Open to Work
 ![Docker](https://img.shields.io/badge/Docker-blue)
 ![CI/CD](https://img.shields.io/badge/CI/CD-grey)
 
-### UI / UX
-![Responsive Design](https://img.shields.io/badge/Responsive-Design-green)
+### UI
+![Responsive](https://img.shields.io/badge/Responsive-Design-green)
 ![Mobile First](https://img.shields.io/badge/Mobile-First-blue)
 
 ---
@@ -96,6 +101,7 @@ Features:
 
 📧 Email: irene19tayler@outlook.com  
 💼 Open to remote full-stack developer roles
+
 
 
 
